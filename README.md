@@ -38,7 +38,7 @@ This project uses mocked data for testing and evaluation purposes with the **Swa
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/oleksissuper/ai-hostpital-agent
+    git clone https://github.com/gardev1380/ai-hostpital-agent
     cd ai-hostpital-agent
     ```
 
